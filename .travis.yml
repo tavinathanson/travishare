@@ -1,3 +1,5 @@
+before_install:
+  - ls
 sudo: false  # Use container-based infrastructure
 language: python
 python:
