@@ -1,0 +1,2 @@
+# travishare
+Shared Travis configuration
